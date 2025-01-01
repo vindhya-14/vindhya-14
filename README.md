@@ -7,7 +7,7 @@ Here's a little about me:
 - 👀 I’m interested in: Coding, cyber security, AI/ML, Web Development. 
 - 🌱 I’m currently learning: Data Structures and Algorithms (DSA) to strengthen my problem-solving skills.
 - 💞️ I’m looking to collaborate on : Fullstack based projects , Ai&ML where I can contribute to innovative solutions.
-- 🤔 I’m focused on : **Placements in FAANG** and preparing myself for opportunities to land a software engineering role at product based company.
+- 🤔 I’m focused on : Placements and preparing myself for opportunities to land a software engineering role at product based company and also contribute in a real world problems.
   
 🛠️ Technologies & Tools:
 - Languages: Java, Python, C++, JavaScript
