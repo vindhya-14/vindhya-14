@@ -3,11 +3,11 @@ Hi there, I'm Vindhya👋
 Welcome to my GitHub profile! I'm a passionate *Software Developer* and *Computer Science* enthusiast who loves to explore the ever-evolving world of technology. 
 Here's a little about me:
 
-🚀 About Me:
-- 👀 I’m interested in: Coding, cyber security, AI/ML, Web Development. 
-- 🌱 I’m currently learning: Data Structures and Algorithms (DSA) to strengthen my problem-solving skills.
-- 💞️ I’m looking to collaborate on : Fullstack based projects , Ai&ML where I can contribute to innovative solutions.
-- 🤔 I’m focused on : Placements and preparing myself for opportunities to land a software engineering role at product based company and also contribute in a real world problems.
+🚀 About Me
+💡 Passionate about Coding, AI/ML, and Web Development.
+📚 Currently mastering Data Structures & Algorithms (DSA) to sharpen my problem-solving skills.
+🤝 Open to collaborating on Full-Stack Development & AI/ML projects to build innovative solutions.
+🎯 Focused on placements and preparing to secure a software engineering role at a product-based company, while solving real-world challenges.
   
 🛠️ Technologies & Tools:
 - Languages: Java, Python, C++, JavaScript
