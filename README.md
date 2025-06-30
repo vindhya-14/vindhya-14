@@ -6,16 +6,15 @@ Here's a little about me:
 ## 🚀 About Me  
 - 💡 Passionate about Coding, AI/ML, and Web Development.  
 - 📚 Currently mastering Data Structures & Algorithms (DSA) to sharpen my problem-solving skills.  
-- 🤝 Open to collaborating on Full-Stack Development & AI/ML projects to build innovative solutions.  
+- 🤝 Open to collaborating on Full-Stack Development to build innovative solutions.  
 - 🎯 Focused on placements and preparing to secure a software engineering role at a product-based company, while solving real-world challenges.  
 
   
 🛠️ Technologies & Tools:
 - Languages: Java, Python, C++, JavaScript
-- Web Development: HTML, CSS, JavaScript, React, Tailwindcss, Node.js, Bootstrap,springboot
-- Data Science & AI: Python (NumPy, Pandas, Matplotlib), Machine Learning, TensorFlow, Keras
+- Web Development: HTML, CSS, JavaScript, React, Tailwindcss, Node.js, Bootstrap,springboot,Next.js
 - Version Control: Git, GitHub
-- Databases: MySQL, MongoDB
+- Databases: MySQL, MongoDB,prisma
 
 📬 Let's Connect:
 - LinkedIn: https://www.linkedin.com/in/vindhya-r1/
