@@ -64,9 +64,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindhya-14&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vindhya-14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</div> -->
 
 ---
 
@@ -99,7 +99,7 @@
 ---
 
 <div align="center">
-  <h2>🚀 Let's Build Something Amazing Together!</h2>
+  <h2> Let's Build Something Amazing Together!</h2>
   <p>I'm always open to collaborating on interesting projects and innovative ideas.</p>
 </div>
 
