@@ -10,40 +10,22 @@
 
 # About Me
 
-```yaml
-Name: Vindhya R
-
-Focus:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Open Source
-  - SaaS Applications
-
-Currently Building:
-  - AI-powered Products
-  - Modern Web Applications
-  - Scalable Backend Systems
-
-Currently Learning:
-  - System Design
-  - Cloud Architecture
-  - Generative AI
-
-Interests:
-  - Building useful software
-  - Solving real-world problems
-  - Continuous learning
-```
-
----
-
-# Currently
-
 ```text
-Building      → AI-powered web applications
-Learning      → System Design & Cloud
-Exploring     → Generative AI
-Open To       → Open Source & Collaboration
+Focus
+├── Full Stack Development
+├── Artificial Intelligence
+├── Open Source
+└── SaaS Applications
+
+Building
+├── AI-powered Products
+├── Modern Web Applications
+└── Scalable Backend Systems
+
+Learning
+├── System Design
+├── Cloud Architecture
+└── Generative AI
 ```
 
 ---
